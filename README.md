@@ -38,9 +38,6 @@
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
     </a> 
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-    </a> 
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
     </a> 
@@ -54,7 +51,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/> 
     </a> 
     <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.pngwing.com/en/free-png-muwfr" alt="cucumber" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Cucumber_logo.svg/1200px-Cucumber_logo.svg.png" alt="cucumber" width="40" height="40"/> 
     </a> 
     <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> 
         <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/> 
