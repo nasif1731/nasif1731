@@ -3,17 +3,22 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasif1731&label=Profile%20views&color=0e75b6&style=flat" alt="nasif1731" /> </p>
 
-- 🌱 I’m currently learning **Software Development**
+- 🌱 I’m currently learning **Software Development** and exploring new technologies.
 
-- 💬 Ask me about **HTML, CSS, C++, Software development**
+- 💬 Ask me about **HTML, CSS, C++, Software Development, Haskell, Django**.
 
-- 📫 How to reach me **nasif1731@gmail.com**
+- 📫 How to reach me: **[nasif1731@gmail.com](mailto:nasif1731@gmail.com)**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nehal-asif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nehal asif" height="30" width="40" /></a>
 <a href="https://instagram.com/nehal._.asif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nehal._.asif" height="30" width="40" /></a>
+<a href="https://x.com/nasif1731" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="X" height="30" width="30" /></a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -32,11 +37,11 @@
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
     </a> 
+    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
+    </a>
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-    </a> 
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
     </a> 
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -44,9 +49,6 @@
     <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
     </a>
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/> 
-    </a> 
     <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968259.png" alt="haskell" width="40" height="40"/> 
     </a>
@@ -58,6 +60,29 @@
     </a> 
 </p>
 
+---
+
+<h3 align="left">Projects:</h3>
+<p align="left">
+  - **[KitaabScript](#)**: An Arabic-Urdu text editor developed in Java, incorporating architectural and design patterns.
+  - **[Factors Affecting Anaemia in Children](#)**: A Python project for data analysis of factors affecting anemia in children, using OLS regression and normal distribution charts.
+  - **[Eventify](#)**: An event management website supporting HTML, CSS, and JavaScript.
+</p>
+
+<p align="left">Explore more in my repositories! 🌟</p>
+
+---
+
+<h3 align="left">Interests:</h3>
+<p align="left"> 
+  - Web Development
+  - Open Source Contribution
+  - Machine Learning
+</p>
+
+---
+
+<h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasif1731&show_icons=true&locale=en&layout=compact" alt="nasif1731" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasif1731&show_icons=true&locale=en" alt="nasif1731" /></p>
