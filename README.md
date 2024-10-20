@@ -4,12 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasif1731&label=Profile%20views&color=0e75b6&style=flat" alt="nasif1731" /> </p>
 
 - 🌱 I’m currently learning **Software Development** and exploring new technologies.
-
 - 💬 Ask me about **HTML, CSS, C++, Software Development, Haskell, Django**.
-
 - 📫 How to reach me: **[nasif1731@gmail.com](mailto:nasif1731@gmail.com)**
-
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,8 +13,6 @@
 <a href="https://instagram.com/nehal._.asif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nehal._.asif" height="30" width="40" /></a>
 <a href="https://x.com/nasif1731" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="X" height="30" width="30" /></a>
 </p>
-
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -60,27 +54,21 @@
     </a> 
 </p>
 
----
-
 <h3 align="left">Projects:</h3>
-<p align="left">
-  - **[KitaabScript](#)**: An Arabic-Urdu text editor developed in Java, incorporating architectural and design patterns.
-  - **[Factors Affecting Anaemia in Children](#)**: A Python project for data analysis of factors affecting anemia in children, using OLS regression and normal distribution charts.
-  - **[Eventify](#)**: An event management website supporting HTML, CSS, and JavaScript.
-</p>
+<ul>
+  <li><strong>KitaabScript</strong>: An Arabic-Urdu text editor developed in Java, incorporating architectural and design patterns.</li>
+  <li><strong>Factors Affecting Anaemia in Children</strong>: A Python project for data analysis of factors affecting anemia in children, using OLS regression and normal distribution charts.</li>
+  <li><strong>Eventify</strong>: An event management website supporting HTML, CSS, and JavaScript.</li>
+</ul>
 
 <p align="left">Explore more in my repositories! 🌟</p>
 
----
-
 <h3 align="left">Interests:</h3>
 <p align="left"> 
-  - Web Development
-  - Open Source Contribution
+  - Web Development<br>
+  - Open Source Contribution<br>
   - Machine Learning
 </p>
-
----
 
 <h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasif1731&show_icons=true&locale=en&layout=compact" alt="nasif1731" /></p>
