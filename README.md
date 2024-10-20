@@ -50,9 +50,9 @@
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/> 
     </a> 
-    <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Cucumber_logo.svg/1200px-Cucumber_logo.svg.png" alt="cucumber" width="40" height="40"/> 
-    </a> 
+    <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Haskell_logo.svg" alt="haskell" width="40" height="40"/> 
+    </a>
     <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> 
         <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/> 
     </a> 
