@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/nehal-asif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nehal asif" height="30" width="40" /></a>
 <a href="https://instagram.com/nehal._.asif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nehal._.asif" height="30" width="40" /></a>
-<a href="https://x.com/nasif1731" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="X" height="30" width="30" /></a>
+<a href="https://x.com/nasif1731" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.967060102.1729382400&semt=ais_hybrid" alt="X" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
