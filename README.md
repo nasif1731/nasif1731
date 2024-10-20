@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasif1731&label=Profile%20views&color=0e75b6&style=flat" alt="nasif1731" /> </p>
 
 - 🌱 I’m currently learning **Software Development** and exploring new technologies.
-- 💬 Ask me about **HTML, CSS, C++, Software Development, Haskell, Django**.
+- 💬 Ask me about **HTML, CSS, C++, Software Development, Haskell, Test Automation**.
 - 📫 How to reach me: **[nasif1731@gmail.com](mailto:nasif1731@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
