@@ -32,9 +32,6 @@
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
     </a> 
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-    </a> 
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
     </a> 
@@ -52,6 +49,9 @@
     </a> 
     <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968259.png" alt="haskell" width="40" height="40"/> 
+    </a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="django" width="40" height="40"/> 
     </a>
     <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> 
         <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/> 
