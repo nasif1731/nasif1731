@@ -74,5 +74,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasif1731&show_icons=true&locale=en&layout=compact" alt="nasif1731" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasif1731&show_icons=true&locale=en" alt="nasif1731" /></p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasif1731" alt="nasif1731" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasif1731&" alt="nasif1731" /></p>
