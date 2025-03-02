@@ -65,9 +65,9 @@
 
 <h3 align="left">Interests:</h3>
 <p align="left"> 
-  - Web Development<br>
-  - Open Source Contribution<br>
-  - Machine Learning
+-  Web Development<br>
+-  Open Source Contribution<br>
+-  Machine Learning
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
