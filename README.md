@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://i.pinimg.com/736x/97/57/94/975794d20cede676a9d899b8f740f12a.jpg" width="280" alt="cute gif"/>
+<img src="https://raw.githubusercontent.com/nasif1731/nasif1731/main/github_card.gif" width="100%" alt="GitHub Card"/>
 
 <br/><br/>
 
