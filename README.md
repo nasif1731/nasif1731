@@ -25,13 +25,13 @@
 
 ## 💕 About Me
 
-- 👩‍💻 **Associate AI & Automations Engineer** @ 9D Technologies — architecting agentic procurement workflows and deploying production LLMs across serverless GPUs
-- 🎓 B.S. Software Engineering @ **FAST-NUCES** — Summa Cum Laude, CGPA 3.91/4.0
+- 👩‍💻 **Associate AI & Automations Engineer** @ [9D Technologies](https://9dtechnologies.com/) — architecting agentic procurement workflows and deploying production LLMs across serverless GPUs
+- 🎓 B.S. Software Engineering @ [**FAST-NUCES**](https://www.nu.edu.pk/) — Summa Cum Laude, CGPA 3.91/4.0
 - 🌱 Currently deep in agentic multi-agent systems, RAG pipelines & MLOps at scale
 - 🔬 Formerly a Research Assistant & Teaching Assistant — mentored 350+ students
 - 👑 Ex-President, Software Engineering Society — led a 50+ member community
 - 💬 Ask me about LLMs, RAG, LangGraph/CrewAI agents, or fine-tuning small models
-- 📫 Reach me: **nasif1731@gmail.com**
+- 📫 Reach me: **[nasif1731@gmail.com](mailto:nasif1731@gmail.com)**
 
 <br/>
 
@@ -64,14 +64,14 @@
 
 ### 🤖 AI / ML Focus
 
-<img src="https://img.shields.io/badge/LangChain-FF6FB5?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/LangGraph-DA70D6?style=for-the-badge" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/CrewAI-C8A2E0?style=for-the-badge&logo=crewai&logoColor=white" alt="CrewAI"/>
-<img src="https://img.shields.io/badge/HuggingFace-E75480?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace"/>
-<img src="https://img.shields.io/badge/RAG-BA55D3?style=for-the-badge" alt="RAG"/>
-<img src="https://img.shields.io/badge/LoRA-FF6FB5?style=for-the-badge" alt="LoRA"/>
-<img src="https://img.shields.io/badge/Llama%203-DA70D6?style=for-the-badge&logo=meta&logoColor=white" alt="Llama 3"/>
-<img src="https://img.shields.io/badge/Mistral%207B-C8A2E0?style=for-the-badge&logo=mistralai&logoColor=white" alt="Mistral 7B"/>
+<a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-FF6FB5?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/></a>
+<a href="https://langchain-ai.github.io/langgraph/" target="_blank"><img src="https://img.shields.io/badge/LangGraph-DA70D6?style=for-the-badge" alt="LangGraph"/></a>
+<a href="https://www.crewai.com/" target="_blank"><img src="https://img.shields.io/badge/CrewAI-C8A2E0?style=for-the-badge&logo=crewai&logoColor=white" alt="CrewAI"/></a>
+<a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-E75480?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace"/></a>
+<a href="https://www.pinecone.io/learn/retrieval-augmented-generation/" target="_blank"><img src="https://img.shields.io/badge/RAG-BA55D3?style=for-the-badge" alt="RAG"/></a>
+<a href="https://github.com/microsoft/LoRA" target="_blank"><img src="https://img.shields.io/badge/LoRA-FF6FB5?style=for-the-badge" alt="LoRA"/></a>
+<a href="https://llama.meta.com/" target="_blank"><img src="https://img.shields.io/badge/Llama%203-DA70D6?style=for-the-badge&logo=meta&logoColor=white" alt="Llama 3"/></a>
+<a href="https://mistral.ai/" target="_blank"><img src="https://img.shields.io/badge/Mistral%207B-C8A2E0?style=for-the-badge&logo=mistralai&logoColor=white" alt="Mistral 7B"/></a>
 
 </div>
 
@@ -115,11 +115,11 @@ GPT-2 fine-tuned with LoRA (just 0.48% trainable params) using custom control to
 
 ## 🏅 Certifications & Honors
 
-- AI Agents Fundamentals — Hugging Face
-- Building RAG Applications — MongoDB
-- Programming with JavaScript — Meta
-- Git 101 — GitHub
-- Cohere Labs ML Summer School 2025
+- [AI Agents Fundamentals — Hugging Face](https://huggingface.co/learn/agents-course)
+- [Building RAG Applications — MongoDB](https://learn.mongodb.com/learning-paths/building-genai-apps-learning-badge-path)
+- [Programming with JavaScript — Meta](https://www.coursera.org/learn/programming-with-javascript)
+- [Git 101 — GitHub](https://skills.github.com)
+- [Cohere Labs ML Summer School 2025](https://cohere.com/events/cohere-labs-ml-summer-school-2025)
 
 🥇 Gold Medal & Rector's List (Fall 2022, Spring 2026) · Dean's List (2023–2025) · Silver Medal (Fall 2023)
 
