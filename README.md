@@ -1,7 +1,14 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:FFAFCC,100:C8A2E0&height=260&section=header&text=Nehal%20Asif&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=26&desc=Associate%20AI%20and%20Automations-nl-Engineer&descAlignY=48&descSize=16" width="100%" alt="Nehal Asif"/>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&pause=1000&color=FF4FA3&center=true&vCenter=true&width=650&height=45&lines=Building+Agentic+AI+%26+LLM+Systems;RAG+%7C+Fine-tuning+%7C+MLOps;FAST-NUCES+Software+Engineering+Grad" alt="Typing SVG"/></a>
+
+<br/>
+
+<img src="https://i.pinimg.com/736x/97/57/94/975794d20cede676a9d899b8f740f12a.jpg" width="280" alt="cute gif"/>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=nasif1731&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views"/>
 
@@ -72,36 +79,36 @@
 
 ## 🚀 Featured Projects
 
-**🎙️ [MicCheck AI](https://github.com/nasif1731/MicCheck)** *— Final Year Project*
-`Python` `FastAPI` `MongoDB` `Zilliz` `AssemblyAI` `ElevenLabs` `Llama 3`
+**🎙️ [MicCheck AI](https://github.com/nasif1731/MicCheck)** *— Final Year Project*  
+`Python` `FastAPI` `MongoDB` `Zilliz` `AssemblyAI` `ElevenLabs` `Llama 3`  
 End-to-end audio content-safety pipeline — transcription, toxicity classification and voice cloning with 98% accuracy across 8 risk categories, plus a hybrid RAG fact-checking engine.
 
-**🤖 [NexusOps](https://github.com/nasif1731/NexusOps)**
-`Python` `LangGraph` `CrewAI` `Kubernetes` `FastAPI` `Groq` `Llama 3.3`
+**🤖 [NexusOps](https://github.com/nasif1731/NexusOps)**  
+`Python` `LangGraph` `CrewAI` `Kubernetes` `FastAPI` `Groq` `Llama 3.3`  
 Autonomous ML orchestrator combining LangGraph workflows with CrewAI multi-agent execution, plus an LLM governance auditor with 6-point compliance checks and SHA-256 audit logs.
 
-**🩸 [CytoVeris](https://github.com/nasif1731/CytoVeris)**
-`Python` `PyTorch` `LangGraph` `Vision Transformers` `FastAPI` `LoRA`
+**🩸 [CytoVeris](https://github.com/nasif1731/CytoVeris)**  
+`Python` `PyTorch` `LangGraph` `Vision Transformers` `FastAPI` `LoRA`  
 Autonomous hematology diagnostics pipeline pairing fine-tuned VLMs with cell morphometry, orchestrated through stateful LangGraph workflows with clinical guardrails.
 
-**🍽️ [ViT-Food101](https://github.com/nasif1731/ViT-Food101)**
-`Python` `PyTorch` `Transformers` `ViT` `Gradio`
+**🍽️ [ViT-Food101](https://github.com/nasif1731/ViT-Food101)**  
+`Python` `PyTorch` `Transformers` `ViT` `Gradio`  
 Vision Transformer fine-tuned on 101K images for 101-class food classification — 82.5% test accuracy with under 200ms inference, deployed as an interactive Gradio app.
 
-**💬 [EmpatheticChatbot](https://github.com/nasif1731/EmpatheticChatbot)**
-`Python` `PyTorch` `Transformers` `SentencePiece`
+**💬 [EmpatheticChatbot](https://github.com/nasif1731/EmpatheticChatbot)**  
+`Python` `PyTorch` `Transformers` `SentencePiece`  
 A Transformer encoder-decoder built from scratch with emotion-conditioned generation, a custom 32K-vocab BPE tokenizer, and beam search / top-k/p sampling evaluated on BLEU and ROUGE-L.
 
-**⚖️ [Legal-Eagle](https://github.com/nasif1731/Legal-Eagle)**
-`Python` `LangChain` `ChromaDB` `Mistral-7B` `Gradio` `RAG`
+**⚖️ [Legal-Eagle](https://github.com/nasif1731/Legal-Eagle)**  
+`Python` `LangChain` `ChromaDB` `Mistral-7B` `Gradio` `RAG`  
 RAG-based contract compliance auditor checking documents against 41 legal rules with a 4-bit quantized Mistral-7B, returning structured status, evidence and remediation.
 
-**🏥 [Med-RAG](https://github.com/nasif1731/Med-RAG)**
-`Python` `LangChain` `ChromaDB` `Mistral-7B-Instruct` `HuggingFace`
+**🏥 [Med-RAG](https://github.com/nasif1731/Med-RAG)**  
+`Python` `LangChain` `ChromaDB` `Mistral-7B-Instruct` `HuggingFace`  
 Medical Q&A RAG pipeline indexing 600+ clinical transcriptions with a 4-bit quantized Mistral-7B, evaluated on 32 queries with negative-control refusal handling.
 
-**👩‍🍳 [RecipeGPT](https://github.com/nasif1731/RecipeGPT)**
-`Python` `PyTorch` `Transformers` `GPT-2` `LoRA`
+**👩‍🍳 [RecipeGPT](https://github.com/nasif1731/RecipeGPT)**  
+`Python` `PyTorch` `Transformers` `GPT-2` `LoRA`  
 GPT-2 fine-tuned with LoRA (just 0.48% trainable params) using custom control tokens for genre-conditioned recipe generation, reaching 8.90 perplexity.
 
 <br/>
@@ -125,10 +132,18 @@ GPT-2 fine-tuned with LoRA (just 0.48% trainable params) using custom control to
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasif1731&layout=compact&hide_border=true&title_color=ff4fa3&text_color=7a5480&bg_color=fff0f7&icon_color=da70d6" alt="Top Languages" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api?username=nasif1731&show_icons=true&hide_border=true&title_color=ff4fa3&text_color=7a5480&bg_color=fff0f7&icon_color=da70d6" alt="GitHub Stats" width="48%"/>
 
+<br/><br/>
+
 <img src="https://streak-stats.demolab.com/?user=nasif1731&hide_border=true&background=FFF0F7&ring=FF4FA3&fire=DA70D6&currStreakLabel=7A5480" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8A2E0,100:FFAFCC&height=120&section=footer" width="100%"/>
+### 📈 Contribution Graph (Full Recent History)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nasif1731&bg_color=fff0f7&color=ff4fa3&line=da70d6&point=c8a2e0&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:C8A2E0,100:FFAFCC&height=120&section=footer" width="100%"/>
 
 </div>
