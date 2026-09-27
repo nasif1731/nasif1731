@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:FFAFCC,100:C8A2E0&height=200&section=header&text=Nehal%20Asif&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Associate%20AI%20and%20Automations%20Engineer&descAlignY=58&descSize=16" width="100%" alt="Nehal Asif"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:FFAFCC,100:C8A2E0&height=260&section=header&text=Nehal%20Asif&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=26&desc=Associate%20AI%20and%20Automations-nl-Engineer&descAlignY=48&descSize=16" width="100%" alt="Nehal Asif"/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&pause=1000&color=FF4FA3&center=true&vCenter=true&width=650&height=45&lines=Building+Agentic+AI+%26+LLM+Systems;RAG+%7C+Fine-tuning+%7C+MLOps;FAST-NUCES+Software+Engineering+Grad" alt="Typing SVG"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=nasif1731&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views"/>
