@@ -71,18 +71,6 @@
 
 <br/>
 
-## 💼 Experience
-
-| Role | Organization | Duration |
-|---|---|---|
-| Associate AI & Automations Engineer | 9D Technologies | July 2026 – Present |
-| Research Assistant | FAST-NUCES | August 2024 – September 2026 |
-| Teaching Assistant | FAST-NUCES | January 2024 – June 2026 |
-| President, Software Engineering Society | FAST-NUCES | September 2025 – June 2026 |
-| Data Scraper Intern | Programmers Force | May 2025 – October 2025 |
-
-<br/>
-
 ## 🚀 Featured Projects
 
 **🎙️ [MicCheck AI](https://github.com/nasif1731/MicCheck)** *— Final Year Project*
